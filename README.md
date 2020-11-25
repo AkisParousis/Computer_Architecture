@@ -127,13 +127,16 @@
 
 > system.cpu_cluster.cpus.committedInsts           5028                       # Number of instructions committed
 
+Τα στατιστικά της gem5 δείχνουν 5834.
+
+>system.cpu_cluster.cpus.committedOps		   5834			     # Number of ops commited
 
 
 ###### c)
 
-Ο αριθμός των προσπελάσων της L2 cache ισούται με 332.
+Ο αριθμός των προσπελάσων της L2 cache ισούται με 479.
 
->system.cpu_cluster.l2.demand_accesses::.cpu_cluster.cpus.inst          332                       # number of demand (read+write) accesses
+>system.cpu_cluster.l2.demand_accesses::total          479                       # number of demand (read+write) accesses
 
 ###### 3ο Ερώτημα
 
