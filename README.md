@@ -135,9 +135,19 @@
 
 ###### c)
 
-Ο αριθμός των προσπελάσων της L2 cache ισούται με 479.
+Ο αριθμός των προσπελάσων της L2 cache βρίσκεται στο _stats.txt_ και ισούται με 479.
 
 >system.cpu_cluster.l2.demand_accesses::total          479                       # number of demand (read+write) accesses
+
+Στο _L2 memory system_ που χρησιμοποιείται σε αυτή την περίπτωση, γίνεται πρόσπελαση στην μνήμη _l2 cache_ όταν έχουμε miss στο _L1 memory system_ δηλαδή στην _L1 dcache_ και _L1 icache_. Από το _stats.txt_ βλέπουμε ότι έχουμε 179 misses στην _dcache_ και  332 στην _icache_. 
+
+> system.cpu_cluster.cpus.dcache.overall_misses::total          179                       # number of overall misses
+
+> system.cpu_cluster.cpus.icache.overall_misses::total          332                       # number of overall misses
+
+Αν αθροίσουμε το σύνολο των misses στις δυο cache βλέπουμε ότι από τα συνολικά misses που είχαμε στο πρώτο επίπεδο, 32 από αυτά δεν μεταβιβάστηκαν στην l2. Αυτό συνέβη επειδή τα συγκεκριμένα misses εντοπίστηκαν και διαχειρήστηκαν στους **_MSHR_**  καταχωρητές και δεν χρειάστηκε  να γίνει  κατανομή στην l2.
+
+> system.cpu_cluster.cpus.dcache.overall_mshr_hits::total           32                       # number of overall MSHR hits
 
 ###### 3ο Ερώτημα
 
@@ -234,3 +244,5 @@ int main(){
 [CPU Types](https://cirosantilli.com/linux-kernel-module-cheat/#gem5-cpu-types)
 
 [General Info about gem5](http://learning.gem5.org/book/)
+
+[Memory Hierarchy](http://pages.cs.wisc.edu/~swilson/gem5-docs/gem5MemorySystem.html)
