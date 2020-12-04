@@ -28,3 +28,5 @@
 >./build/ARM/gem5.opt -d spec_results/speclibm configs/example/se.py --cputype=MinorCPU --caches --l2cache -c spec_cpu2006/470.lbm/src/speclibm -o "20
 >spec_cpu2006/470.lbm/data/lbm.in 0 1
 >spec_cpu2006/470.lbm/data/100_100_130_cf_a.of" -I 100000000
+
+Από τα αρχεία ***config.ini*** του φακέλου ***spec_results*** για κάθε ένα από τα ***specbzip***, ***spechmmer***, ***speclibm***, ***specmcf***, ***specsjeng***
