@@ -38,3 +38,22 @@
 .
 .
 15 cache_line_size=64
+~~~
+
+*icache_size*
+
+~~~python
+812 [system.cpu.icache]
+.
+.
+833 size=32768
+~~~
+
+*dcache_size*
+
+~~~python
+148 [system.cpu.dcache]
+.
+.
+169 size=65536
+~~~
