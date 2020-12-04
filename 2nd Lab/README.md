@@ -57,3 +57,15 @@
 .
 169 size=65536
 ~~~
+
+*l2_cache_size* &
+
+~~~python
+1057 [system.l2]
+.
+.
+1061 assoc=8
+.
+.
+1078 size=2097152
+~~~
