@@ -29,4 +29,12 @@
 >spec_cpu2006/470.lbm/data/lbm.in 0 1
 >spec_cpu2006/470.lbm/data/100_100_130_cf_a.of" -I 100000000
 
-Από τα αρχεία ***config.ini*** του φακέλου ***spec_results*** για κάθε ένα από τα ***specbzip***, ***spechmmer***, ***speclibm***, ***specmcf***, ***specsjeng***
+Από τα αρχεία ***config.ini*** του φακέλου ***spec_results*** για κάθε ένα από τα ***specbzip***, ***spechmmer***, ***speclibm***, ***specmcf***, ***specsjeng*** παρατηρούμε τα εξής μεγέθη:
+
+*Cache_size*
+
+~~~python
+11 [system]
+.
+.
+15 cache_line_size=64
