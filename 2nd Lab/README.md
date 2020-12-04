@@ -19,7 +19,7 @@
 >"spec_cpu2006/429.mcf/data/inp.in" -I 100000000
 
 >./build/ARM/gem5.opt -d spec_results/spechmmer configs/example/se.py --cputype=MinorCPU --caches --l2cache -c spec_cpu2006/456.hmmer/src/spechmmer -o "--
->fixed 0 --mean 325 --num 45000 --sd 200 –seed 0
+>fixed 0 --mean 325 --num 45000 --sd 200 --seed 0
 >spec_cpu2006/456.hmmer/data/bombesin.hmm" -I 100000000
 
 >./build/ARM/gem5.opt -d spec_results/specsjeng configs/example/se.py --cputype=MinorCPU --caches --l2cache -c spec_cpu2006/458.sjeng/src/specsjeng -o
