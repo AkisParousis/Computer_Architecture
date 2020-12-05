@@ -31,7 +31,7 @@
 
 Από τα αρχεία ***config.ini*** του φακέλου ***spec_results*** για κάθε ένα από τα ***specbzip***, ***spechmmer***, ***speclibm***, ***specmcf***, ***specsjeng*** παρατηρούμε τα εξής μεγέθη:
 
-*Cache_size*
+*Cache_line_size*
 
 ~~~python
 11 [system]
@@ -40,25 +40,31 @@
 15 cache_line_size=64
 ~~~
 
-*icache_size*
+*icache_size* & *associativity*
 
 ~~~python
 812 [system.cpu.icache]
 .
 .
+816 assoc=2
+.
+.
 833 size=32768
 ~~~
 
-*dcache_size*
+*dcache_size* & *associativity*
 
 ~~~python
 148 [system.cpu.dcache]
 .
 .
+152 assoc=2
+.
+.
 169 size=65536
 ~~~
 
-*l2_cache_size* &
+*l2_cache_size* & *associativity*
 
 ~~~python
 1057 [system.l2]
