@@ -7,7 +7,7 @@
 
 #### **2η Εργαστηριακή Άσκηση**
 
-
+###### Βήμα 1ο
 ###### 1ο Ερώτημα
 
 Αρχικά, για την κατασκευή του simulation χρησιμοποιήσαμε στο terminal τις παρακάτω εντολές:
@@ -77,3 +77,22 @@
 ~~~
 
 <pre>Τα μεγέθη είναι ίδια για όλα τα benchmark</pre>
+
+
+###### 2ο Ερώτημα
+
+Από τα αρχεία ***stats.txt*** του φακέλου ***spec_results*** για κάθε ένα από τα ***specbzip***, ***spechmmer***, ***speclibm***, ***specmcf***, ***specsjeng*** παρατηρούμε τα παρακάτω αποτελέσματα:
+
+**specbzip**
+
+~~~
+sim_seconds                                  0.083555                       # Number of seconds simulated
+
+system.cpu.cpi                               1.671102                       # CPI: cycles per instruction
+
+system.cpu.icache.overall_miss_rate::total     0.000075                       # miss rate for overall accesses
+
+system.cpu.dcache.overall_miss_rate::total     0.014245                       # miss rate for overall accesses
+
+system.l2.overall_miss_rate::total           0.295246                       # miss rate for overall accesses
+~~~
