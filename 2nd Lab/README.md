@@ -152,3 +152,6 @@ system.cpu.dcache.overall_miss_rate::total     0.121831                       # 
 
 system.l2.overall_miss_rate::total           0.999978                       # miss rate for overall accesses
 ~~~
+
+
+
