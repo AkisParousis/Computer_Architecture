@@ -76,4 +76,4 @@
 1078 size=2097152
 ~~~
 
-<pre>dsfd</pre>
+<pre>Τα μεγέθη είναι ίδια για όλα τα benchmark</pre>
