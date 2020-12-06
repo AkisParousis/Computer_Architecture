@@ -155,3 +155,14 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 <pre>Τα γραφήματα βρίσκονται στον φάκελο Graphs στο αρχείο <a href="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/Step1_Q2_graph.md" target="_blank">Step1_Q2_graph.md</a></pre>
 
+Ένας γενικός κανόνας που παρατηρούμε είναι πως όσο μεγαλύτερα τα miss rate ενός spec, τόσο μεγαλύτερο και το cpi του. Αυτό με τη σειρά του οδηγεί σε μεγαλύτερη διάρκεια εξομοίωσης, γεγονός πολύ λογικό.
+
+
+###### 3ο Ερώτημα
+
+Όντως στο αρχείο ***stats.txt*** μπορούμε να βρούμε τις παρακάτω πληροφορίες για το ρολόι:
+
+~~~python
+154 system.clk_domain.clock                          1000                       # Clock period in ticks
+754 system.cpu_clk_domain.clock                       500                       # Clock period in ticks
+~~~
