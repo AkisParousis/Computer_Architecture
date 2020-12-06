@@ -153,5 +153,4 @@ system.cpu.dcache.overall_miss_rate::total     0.121831                       # 
 system.l2.overall_miss_rate::total           0.999978                       # miss rate for overall accesses
 ~~~
 
-<pre>Τα γραφήματα βρίσκονται στον φάκελο Graphs στο αρχείο [Step1_Q2_graph.md](https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/Step1_Q2_graph.md) </pre>
-
+Τα γραφήματα βρίσκονται στον φάκελο Graphs στο αρχείο [Step1_Q2_graph.md](https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/Step1_Q2_graph.md)
