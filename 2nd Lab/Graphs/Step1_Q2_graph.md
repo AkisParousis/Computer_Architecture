@@ -1,7 +1,2 @@
-# Sim_Seconds
-{{Bar-Chart}}
-- specbzip:0.083555
-- spechmmer:0.059395
-- speclibm:0.174042
-- specmcf:0.062732
-- specsjeng:0.505707
+<img src="/Desktop/sim_seconds.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
