@@ -166,3 +166,9 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 154 system.clk_domain.clock                          1000                       # Clock period in ticks
 754 system.cpu_clk_domain.clock                       500                       # Clock period in ticks
 ~~~
+
+Το system domain clock ή αλλιώς uncore frequency χρονίζει διάφορα μέρη του συστήματος (non-core CPU parts), όπως memory controller, memory bus, DVFS (Dynamic voltage and frequency scaling) handler ενώ το cpu domain clock χρονίζει τα μέρη του επεξεργαστή που εμπλέκονται στο να εκτελέσουν εντολές, όπως  ALU, FPU, L1 instruction and data cache and L2 cache.
+
+Αν προσθέσουμε ακόμα έναν επεξεργαστή το ρολόι του θα είναι το cpu clock.
+
+Τέλος όσον αφορά το scaling, πράγματι στις μικρές συχνότητες με τις οποίες ασχολούμαστε υπάρχει τέλειο scaling. Δηλαδή ο υποδιπλασιασμός του cpu clock, οδήγησε σε διπλασιασμό του χρόνου εξομοίωσης. Λογικά, όσο αυξάνουμε τη συχνότητα του επεξεργαστή θα "χαλάει" το scaling, διότι ο επεξεργαστής είναι συνήθως αρκετά πιο γρήγορος απο τα υπόλοιπα στοιχεία του συστήματος, οπότε θα αναγκαστεί να περιμένει.
