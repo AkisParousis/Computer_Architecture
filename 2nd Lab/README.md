@@ -257,4 +257,4 @@ Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & 
 
 Optimal Build1: all default except l2cache_size = 1MB & cacheline_size = 256KB
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_dcachesize.png?raw=true">
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_opt.png?raw=true">
