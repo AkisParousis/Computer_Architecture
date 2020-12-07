@@ -208,3 +208,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 *l2_assoc*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2assoc.png?raw=true">
+
+Optimal Build1: all default except l2cache_size = 4MB & l1dcache_size = 128kB & l1dcache_assoc = 4
+
+Optimal Build1: all default except l2cache_size = 4MB & l1dcache_size = 128kB & l1dcache_assoc = 8
