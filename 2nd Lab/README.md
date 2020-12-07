@@ -232,4 +232,4 @@ Optimal Build2: all default except l2cache_size = 4MB & & l2cache_assoc = 4 & l1
 
 *l2_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_l2size.png?raw=true">
