@@ -278,7 +278,7 @@ Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & 
 
 Η συνάρτηση κόστους που θεωρήσαμε είναι η εξής :
 
-x1 + x2/16 + assocl1 + assocl2 / 2 + c/8
+x1/16KB + x2/256KB + assocl1 + assocl2 / 2 + c/8B
 
 * x1 : άθροισμα μεγεθών icache + dcache
 * x2 : μέγεθος l2cache
