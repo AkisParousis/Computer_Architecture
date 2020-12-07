@@ -100,15 +100,15 @@ system.l2.overall_miss_rate::total           0.294749                       # mi
 **spechmmer**
 
 ~~~
-sim_seconds                                  0.059395                       # Number of seconds simulated
+sim_seconds                                  0.059410                       # Number of seconds simulated
 
-system.cpu.cpi                               1.187897                       # CPI: cycles per instruction
+system.cpu.cpi                               1.188197                       # CPI: cycles per instruction
 
-system.cpu.icache.overall_miss_rate::total     0.000212                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000204                       # miss rate for overall accesses
 
-system.cpu.dcache.overall_miss_rate::total     0.001628                       # miss rate for overall accesses
+system.cpu.dcache.overall_miss_rate::total     0.001692                       # miss rate for overall accesses
 
-system.l2.overall_miss_rate::total           0.078295                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.079948                       # miss rate for overall accesses
 ~~~
 
 **speclibm**
@@ -181,6 +181,10 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 Για το specbzip αποφασίσαμε ότι το *icache miss rate* βρίσκεται ήδη σε βαθμό που δε δέχεται διακριτές βελτιώσεις, οπότε το αφήσαμε αμετάβλητο.
 
+**spechmmer**
+
+Το cpi του spechmmer ήταν ήδη κοντά στην μονάδα, οπότε υποθέσαμε με κάποιες μικρές αλλαγές κυρίως στην l2_cache και l1_dcache που έχουν τα υψηλότερα miss rate θα βελτιωθεί το cpi.
+
 
 
 ###### 2ο Ερώτημα
@@ -211,6 +215,21 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 Optimal Build1: all default except l2cache_size = 4MB & l1dcache_size = 128kB & l1dcache_assoc = 4
 
-Optimal Build1: all default except l2cache_size = 4MB & & l2cache_assoc = 4 & l1dcache_size = 128kB & l1dcache_assoc = 8 & cacheline_size = 256
+Optimal Build2: all default except l2cache_size = 4MB & & l2cache_assoc = 4 & l1dcache_size = 128kB & l1dcache_assoc = 8 & cacheline_size = 256
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_opt.png?raw=true">
+
+
+**spechmmer**
+
+*cache_line_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
+
+*dcache_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
+
+*l2_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
