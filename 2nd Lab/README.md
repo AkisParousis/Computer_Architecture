@@ -259,13 +259,8 @@ Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & 
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_cachelinesize.png?raw=true">
 
-*l2_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_l2cachesize.png?raw=true">
 
-Optimal Build1: all default except l2cache_size = 1MB & cacheline_size = 256KB
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_opt.png?raw=true">
 
 **specsjeng**
 
