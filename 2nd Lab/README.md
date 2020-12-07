@@ -86,15 +86,15 @@
 **specbzip**
 
 ~~~
-sim_seconds                                  0.083555                       # Number of seconds simulated
+sim_seconds                                  0.083847                       # Number of seconds simulated
 
-system.cpu.cpi                               1.671102                       # CPI: cycles per instruction
+system.cpu.cpi                               1.676947                       # CPI: cycles per instruction
 
 system.cpu.icache.overall_miss_rate::total     0.000075                       # miss rate for overall accesses
 
-system.cpu.dcache.overall_miss_rate::total     0.014245                       # miss rate for overall accesses
+system.cpu.dcache.overall_miss_rate::total     0.014289                       # miss rate for overall accesses
 
-system.l2.overall_miss_rate::total           0.295246                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.294749                       # miss rate for overall accesses
 ~~~
 
 **spechmmer**
@@ -176,3 +176,22 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 ##### Βήμα 2ο
 ###### 1ο Ερώτημα
+
+**specbzip**
+
+Για το specbzip αποφασίσαμε ότι το *icache miss rate* βρίσκεται ήδη σε βαθμό που δε δέχεται διακριτές βελτιώσεις, οπότε το αφήσαμε αμετάβλητο.
+Ιδιαίτερες μεταβολές είχε με την αύξηση του *cache_line_size*
+
+
+
+
+###### 2ο Ερώτημα
+
+Για όλα τα benchmark συγκρίναμε πρώτα τα χαρακτηριστικά μεμονωμένα και στη συνέχεια με βάση τα αποτελέσματα φτιάξαμε κάποια βελτιστοποιημένα build.
+
+**specbzip**
+
+*cache_line_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_cachelinesize.png?raw=true">
+
