@@ -233,3 +233,7 @@ Optimal Build2: all default except l2cache_size = 4MB & & l2cache_assoc = 4 & l1
 *l2_size*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_l2size.png?raw=true">
+
+Optimal Build1: all default except l2cache_size = 4MB & l1dcache_size = 128kB & l1dcache_assoc = 4
+
+Optimal Build2: all default except l2cache_size = 1MB & l1dcache_size = 128kB & cacheline_size = 256KB
