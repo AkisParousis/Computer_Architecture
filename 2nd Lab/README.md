@@ -191,7 +191,10 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 **specmcf**
 
+Στο συγκεκριμένο benchmark έχουμε μεγαλύτερο icache miss rate οπότε δε θα αγνοήσουμε κάποιο παράγοντα και μέσω παρατηρήσεων θα καταλήξουμε σε κάποιο βέλτιστο build.
+
 **specsjeng**
+
 Παρόμοια με το libm το cpi είναι πιθανότερο να μειωθεί μεταβάλλοντας κυρίως το *cache_line_size*, το *l2_cache_size* και το *l1_dcache_size*.
 
 ###### 2ο Ερώτημα
