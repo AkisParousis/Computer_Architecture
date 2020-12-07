@@ -264,7 +264,7 @@ Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & 
 
 *cache_line_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specmcf_cachelinesize.png?raw=true">
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specmcf_datacacheline.png?raw=true">
 
 **specsjeng**
 
