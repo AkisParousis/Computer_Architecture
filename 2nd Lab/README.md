@@ -142,9 +142,9 @@ system.l2.overall_miss_rate::total           0.067668                       # mi
 **specsjeng**
 
 ~~~
-sim_seconds                                  0.505707                       # Number of seconds simulated
+sim_seconds                                  0.513819                       # Number of seconds simulated
 
-system.cpu.cpi                               10.114142                       # CPI: cycles per instruction
+system.cpu.cpi                               10.276385                       # CPI: cycles per instruction
 
 system.cpu.icache.overall_miss_rate::total     0.000020                       # miss rate for overall accesses
 
@@ -188,6 +188,11 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 **speclibm**
 
 Όμοια με τα παραπάνω στόχος ήταν να ρίξουμε το miss rate κυρίως της *l2_cache* και κατά δεύτερον της *l1_dcache*. Το *icache miss rate* βρίσκεται ήδη σε ικανοποιητικό βαθμό.
+
+**specmcf**
+
+**specsjeng**
+Παρόμοια με το libm το cpi είναι πιθανότερο να μειωθεί μεταβάλλοντας κυρίως το *cache_line_size*, το *l2_cache_size* και το *l1_dcache_size*.
 
 ###### 2ο Ερώτημα
 
