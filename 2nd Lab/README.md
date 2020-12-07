@@ -128,15 +128,15 @@ system.l2.overall_miss_rate::total           0.999927                       # mi
 **specmcf**
 
 ~~~
-sim_seconds                                  0.062732                       # Number of seconds simulated
+sim_seconds                                  0.055471                       # Number of seconds simulated
 
-system.cpu.cpi                               1.254641                       # CPI: cycles per instruction
+system.cpu.cpi                               1.109419                       # CPI: cycles per instruction
 
-system.cpu.icache.overall_miss_rate::total     0.019032                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000037                       # miss rate for overall accesses
 
-system.cpu.dcache.overall_miss_rate::total     0.002062                       # miss rate for overall accesses
+system.cpu.dcache.overall_miss_rate::total     0.002038                       # miss rate for overall accesses
 
-system.l2.overall_miss_rate::total           0.067668                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.727788                       # miss rate for overall accesses
 ~~~
 
 **specsjeng**
@@ -258,6 +258,20 @@ Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & 
 *cache_line_size*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_cachelinesize.png?raw=true">
+
+*l2_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_l2cachesize.png?raw=true">
+
+Optimal Build1: all default except l2cache_size = 1MB & cacheline_size = 256KB
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_opt.png?raw=true">
+
+**specsjeng**
+
+*cache_line_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specjeng_cachelinesize.png?raw=true">
 
 *l2_size*
 
