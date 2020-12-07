@@ -180,8 +180,6 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 **specbzip**
 
 Για το specbzip αποφασίσαμε ότι το *icache miss rate* βρίσκεται ήδη σε βαθμό που δε δέχεται διακριτές βελτιώσεις, οπότε το αφήσαμε αμετάβλητο.
-Ιδιαίτερες μεταβολές είχε με την αύξηση του *cache_line_size*
-
 
 
 
@@ -195,3 +193,11 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_cachelinesize.png?raw=true">
 
+*dcache_size*
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcachesize.png?raw=true">
+
+*dcache_assoc*
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcacheassoc.png?raw=true">
+
+*l2_size*
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
