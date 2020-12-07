@@ -114,15 +114,15 @@ system.l2.overall_miss_rate::total           0.079948                       # mi
 **speclibm**
 
 ~~~
-sim_seconds                                  0.174042                       # Number of seconds simulated
+sim_seconds                                  0.174779                       # Number of seconds simulated
 
-system.cpu.cpi                               3.480837                       # CPI: cycles per instruction
+system.cpu.cpi                               3.495573                       # CPI: cycles per instruction
 
-system.cpu.icache.overall_miss_rate::total     0.000095                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000098                       # miss rate for overall accesses
 
 system.cpu.dcache.overall_miss_rate::total     0.060972                       # miss rate for overall accesses
 
-system.l2.overall_miss_rate::total           0.999940                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.999927                       # miss rate for overall accesses
 ~~~
 
 **specmcf**
@@ -185,7 +185,9 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 Το cpi του spechmmer ήταν ήδη κοντά στην μονάδα, οπότε υποθέσαμε με κάποιες μικρές αλλαγές κυρίως στην l2_cache και l1_dcache που έχουν τα υψηλότερα miss rate θα βελτιωθεί το cpi.
 
+**speclibm**
 
+Όμοια με τα παραπάνω στόχος ήταν να ρίξουμε το miss rate κυρίως της *l2_cache* και κατά δεύτερον της *l1_dcache*. Το *icache miss rate* βρίσκεται ήδη σε ικανοποιητικό βαθμό.
 
 ###### 2ο Ερώτημα
 
@@ -241,3 +243,18 @@ Optimal Build2: all default except l2cache_size = 4MB & & l2cache_assoc = 4 & l1
 Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & l1dcache_assoc = 4 & cacheline_size = 256KB
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_opt.png?raw=true">
+
+
+**speclibm**
+
+*cache_line_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_cachelinesize.png?raw=true">
+
+*l2_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_l2cachesize.png?raw=true">
+
+Optimal Build1: all default except l2cache_size = 1MB & cacheline_size = 256KB
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_dcachesize.png?raw=true">
