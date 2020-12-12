@@ -242,12 +242,12 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 *l2_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/l2cache_size.png">
 
 
 *l2_assoc*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2assoc.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/l2cache_assoc.png">
 
 
 
