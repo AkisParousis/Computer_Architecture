@@ -208,100 +208,48 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 ##### Βήμα 2ο
 ###### 1ο Ερώτημα
 
-**specbzip**
-
-Για το specbzip αποφασίσαμε ότι το *icache miss rate* βρίσκεται ήδη σε βαθμό που δε δέχεται διακριτές βελτιώσεις, οπότε το αφήσαμε αμετάβλητο.
-
-**spechmmer**
-
-Το cpi του spechmmer ήταν ήδη κοντά στην μονάδα, οπότε υποθέσαμε με κάποιες μικρές αλλαγές κυρίως στην l2_cache και l1_dcache που έχουν τα υψηλότερα miss rate θα βελτιωθεί το cpi.
-
-**speclibm**
-
-Όμοια με τα παραπάνω στόχος ήταν να ρίξουμε το miss rate κυρίως της *l2_cache* και κατά δεύτερον της *l1_dcache*. Το *icache miss rate* βρίσκεται ήδη σε ικανοποιητικό βαθμό.
-
-**specmcf**
-
-Και σε αυτό το benchmark μπορεί να αγνοηθεί η icache αφού το miss rate είναι αρκετά μικρό. Παρ'ολ'αυτά επειδή το cpi είναι αρκετά κοντά στη μονάδα ίσως δε χρειαστεί να μεταβληθούν όλοι οι παράγοντες.
-
-**specsjeng**
-
-Παρόμοια με το libm το cpi είναι πιθανότερο να μειωθεί μεταβάλλοντας κυρίως το *cache_line_size*, το *l2_cache_size* και το *l1_dcache_size*.
+Για όλα τα benchmarks με εξαίρεση το *specmcf* παρατηρούμε ότι το icache miss rate είναι ήδη σε ικανοποιητικό βαθμό , οπότε τυχόν αλλαγές της icache δε θα προσφέρουν κάποια διακριτή αλλαγή.
 
 ###### 2ο Ερώτημα
 
-Για όλα τα benchmark συγκρίναμε πρώτα τα χαρακτηριστικά μεμονωμένα και στη συνέχεια με βάση τα αποτελέσματα φτιάξαμε κάποια βελτιστοποιημένα build.
+Για διάφορα μεγέθη των χαρακτηριστικών που μελετάμε , αθροίσαμε τα cpi των benchmark και υπολογίσαμε το μέσο cpi. 
 
-**specbzip**
 
 *cache_line_size*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_cachelinesize.png?raw=true">
 
+
+*icache_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_dcachesize.png?raw=true">
+
+
+*icache_assoc*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcacheassoc.png?raw=true">
+
+
 *dcache_size*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcachesize.png?raw=true">
+
 
 *dcache_assoc*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcacheassoc.png?raw=true">
 
+
 *l2_size*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2size.png?raw=true">
+
 
 *l2_assoc*
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_l2assoc.png?raw=true">
 
-Optimal Build1: all default except l2cache_size = 4MB & l1dcache_size = 128kB & l1dcache_assoc = 4
 
-Optimal Build2: all default except l2cache_size = 4MB & & l2cache_assoc = 4 & l1dcache_size = 128kB & l1dcache_assoc = 8 & cacheline_size = 256
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_opt.png?raw=true">
-
-
-**spechmmer**
-
-*cache_line_size*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_cachelinesize.png?raw=true">
-
-*dcache_size*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_dcachesize.png?raw=true">
-
-*dcache_assoc*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_dcacheassoc.png?raw=true">
-
-*l2_size*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_l2size.png?raw=true">
-
-Optimal Build1: all default except l2cache_size = 1MB & l1dcache_size = 128kB & l1dcache_assoc = 4 & cacheline_size = 256KB
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_opt.png?raw=true">
-
-
-**speclibm**
-
-*cache_line_size*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/speclibm_cachelinesize.png?raw=true">
-
-
-**specmcf**
-
-*cache_line_size*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specmcf_datacacheline.png?raw=true">
-
-**specsjeng**
-
-*cache_line_size*
-
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specjeng_cachelinesize.png?raw=true">
 
 
 ##### Βήμα 3ο
