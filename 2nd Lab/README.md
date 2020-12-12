@@ -213,7 +213,8 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 ###### 2ο Ερώτημα
 
 Για διάφορα μεγέθη των χαρακτηριστικών που μελετάμε , αθροίσαμε τα cpi των benchmark και υπολογίσαμε το μέσο cpi.
-Για τους υπολογισμούς των παραπάνω 
+
+Για τους υπολογισμούς των παραπάνω έγιναν περίπου 100 simulations αλλάζοντας στο κάθε ένα απο αυτά το μέγεθος ενός χαρακτηριστικού μέσω του [longScript.sh](https://github.com/AkisParousis/Computer_Architecture/tree/main/2nd%20Lab/Scripts)
 
 
 *cache_line_size*
