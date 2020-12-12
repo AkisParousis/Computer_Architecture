@@ -217,27 +217,27 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 *cache_line_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_cachelinesize.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/Cache_line_size.png">
 
 
 *icache_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/spechmmer_dcachesize.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/icache_size.png">
 
 
 *icache_assoc*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcacheassoc.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/icache_assoc.png">
 
 
 *dcache_size*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcachesize.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/dcache_size.png">
 
 
 *dcache_assoc*
 
-<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/2nd%20Lab/Graphs/specbzip_dcacheassoc.png?raw=true">
+<img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/dcache_assoc.png">
 
 
 *l2_size*
