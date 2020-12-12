@@ -212,7 +212,8 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 ###### 2ο Ερώτημα
 
-Για διάφορα μεγέθη των χαρακτηριστικών που μελετάμε , αθροίσαμε τα cpi των benchmark και υπολογίσαμε το μέσο cpi. 
+Για διάφορα μεγέθη των χαρακτηριστικών που μελετάμε , αθροίσαμε τα cpi των benchmark και υπολογίσαμε το μέσο cpi.
+Για τους υπολογισμούς των παραπάνω 
 
 
 *cache_line_size*
@@ -243,6 +244,10 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 *l2_size*
 
 <img src="https://raw.githubusercontent.com/AkisParousis/Computer_Architecture/main/2nd%20Lab/Graphs/Step2_Q2_graphs/l2cache_size.png">
+
+~~~
+Έχει γίνει λάθος στα μεγέθη του οριζόντιου άξονα. Τα πραγματικά είναι 512kB, 1MB, 2MB, 4MB 
+~~~
 
 
 *l2_assoc*
