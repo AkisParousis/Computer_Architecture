@@ -286,14 +286,260 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 Με βάση όλα τα παραπάνω καταλήξαμε στην παρακάτω συνάρτηση κόστους :
 
 
-x1/16KB + x2/256KB + assocl1 + assocl2 / 2 + c/8B
+(1/1.1)*(x1/32kB) + (1/1.5)*(x2/256kB) + (1/1.05)*(assoc_1 / 2) + (1/1.05) * (assoc_2 / 4) + (c/16B) * (1/2.2)
 
 * x1 : άθροισμα μεγεθών icache + dcache
 * x2 : μέγεθος l2cache
-* assoc 1 : αθροισμα icache_assoc + dcache_assoc
-* assoc 2 : l2cache_assoc
+* assoc_1 : αθροισμα icache_assoc + dcache_assoc
+* assoc_2 : l2cache_assoc
 * c : cache_line_size
 
+~~~
+Οι συντελεστές και οι διαιρέτες επιλέχθηκαν με τέτοιο τρόπο ωστέ να κανονικοποιηθούν τα μεγέθη και να να μπορούν να συγκριθούν ως προς την επίδραση τους στο κόστος.
+~~~
+
+
+Στη συνέχεια επιλέξαμε 9 build που θεωρήσαμε οτι θα μπορούσαν να αποτελούν βέλτιστα προκειμένου να συγκρίνουμε τα score τους. Τα score βγαίνουν από τη συνάρτηση κόστους πολλαπλασιασμένη με το cpi του build.
+
+**specbizip**
+<table>
+<thead>
+<tr>
+<th>401.bzip2</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>159.68</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>101.97</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>102.18</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>118.52</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>150.42</td>
+</tr>
+<tr>
+<td>L2: 4MB 4-way</td>
+<td>201.76</td>
+</tr>
+<tr>
+<td>L2: 1MB 8-way</td>
+<td>203.24</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>104.75</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>208.25</td>
+</tr>
+</tbody>
+</table>
+
+**spechmmer**
+<table>
+<thead>
+<tr>
+<th>401.bzip2</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>159.68</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>101.97</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>102.18</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>118.52</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>150.42</td>
+</tr>
+<tr>
+<td>L2: 4MB 4-way</td>
+<td>201.76</td>
+</tr>
+<tr>
+<td>L2: 1MB 8-way</td>
+<td>203.24</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>104.75</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>208.25</td>
+</tr>
+</tbody>
+</table>
+
+**specmcf**
+<table>
+<thead>
+<tr>
+<th>401.bzip2</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>159.68</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>101.97</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>102.18</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>118.52</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>150.42</td>
+</tr>
+<tr>
+<td>L2: 4MB 4-way</td>
+<td>201.76</td>
+</tr>
+<tr>
+<td>L2: 1MB 8-way</td>
+<td>203.24</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>104.75</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>208.25</td>
+</tr>
+</tbody>
+</table>
+
+**speclibm**
+<table>
+<thead>
+<tr>
+<th>401.bzip2</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>159.68</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>101.97</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>102.18</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>118.52</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>150.42</td>
+</tr>
+<tr>
+<td>L2: 4MB 4-way</td>
+<td>201.76</td>
+</tr>
+<tr>
+<td>L2: 1MB 8-way</td>
+<td>203.24</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>104.75</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>208.25</td>
+</tr>
+</tbody>
+</table>
+
+**specsjeng**
+<table>
+<thead>
+<tr>
+<th>401.bzip2</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>159.68</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>101.97</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>102.18</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>118.52</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>150.42</td>
+</tr>
+<tr>
+<td>L2: 4MB 4-way</td>
+<td>201.76</td>
+</tr>
+<tr>
+<td>L2: 1MB 8-way</td>
+<td>203.24</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>104.75</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>208.25</td>
+</tr>
+</tbody>
+</table>
 
 
 #### Κριτική
