@@ -267,18 +267,23 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 Η cache line κοστίζει παραπάνω όσο αυξάνει το μέγεθος της. Αυτό οφείλεται στο γεγονός ότι μεγαλύτερο μέγεθος οδηγεί στην μείωση των γραμμών που με τη σειρά του μπορεί να αυξήσει τα conflict misses. Επίσης , αν και σε μικρό βαθμό , αυξάνεται το transfer time. Όμως από τις δοκιμές που διεξάγαμε παρατηρήσαμε ότι το cache line size έπαιζε τον επιδραστικότερο ρόλο στο average cpi.
 
-[source](https://stackoverflow.com/questions/55647071/does-cacheline-size-affect-memory-access-latency)
+[Source](https://stackoverflow.com/questions/55647071/does-cacheline-size-affect-memory-access-latency)
 
 *cache_size*
 
 Γνωρίζουμε αλλά και παρατηρούμε απο τις δοκιμές μας ότι όσο και να αυξήσουμε το μέγεθος των cache μετά από ένα σημείο, το hit rate τους παραμένει σταθερό. Επομένως η αύξηση του μεγέθους τους οδηγά και σε αύξηση του κόστους.
 Επιπλέον γνωρίζουμε ότι η l1cache είναι πιο "ακριβή" σε θέμα κατασκευής και φυσικού χώρου οπότε τυχόν αύξηση του μεγέθους της έχει μεγαλύτερο κόστος από τυχόν αύξηση του μεγέθους της l2.
 
-[source_1](https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips)
-[source_2](https://www.techspot.com/article/2066-cpu-l1-l2-l3-cache/)
+[Source_1](https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips)
+[Source_2](https://www.techspot.com/article/2066-cpu-l1-l2-l3-cache/)
 
 *associativity*
 
+Τέλος, στη συνάρτηση κόστους όσο μεγαλύτερο associativity έχουμε αύξανεται σε ένα βαθμό , διότι όσο αυξάνεται το associativity έχουμε αρνητική επίδραση στην περιπλοκότητα και στο χρόνο προσπέλασης. Για παράδειγμα αν έχουμε ίδιες αποδόσεις για L1I: 64kB 2-way και L1I: 64kB 4-way θα προτιμήσουμε τη πρώτη περίπτωση.
+
+[Source](https://www.sciencedirect.com/topics/computer-science/set-associativity)
+
+Με βάση όλα τα παραπάνω καταλήξαμε στην παρακάτω συνάρτηση κόστους :
 
 
 x1/16KB + x2/256KB + assocl1 + assocl2 / 2 + c/8B
@@ -290,6 +295,6 @@ x1/16KB + x2/256KB + assocl1 + assocl2 / 2 + c/8B
 * c : cache_line_size
 
 
-Επίσης 
 
-Τέλος, στη συνάρτηση κόστους όσο μεγαλύτερο associativity έχουμε προστίθεται μεγαλύτερη ποινή , διότι όσο αυξάνεται το associativity έχουμε αρνητική επίδραση στην περιπλοκότητα και στο χρόνο προσπέλασης. Για παράδειγμα αν έχουμε ίδιες αποδόσεις για L1I: 64kB 2-way και L1I: 64kB 4-way θα προτιμήσουμε τη πρώτη.
+##### Κριτική
+
