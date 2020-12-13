@@ -366,7 +366,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
-<td>101.97</td>
+<td>18.39</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
@@ -414,7 +414,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
-<td>101.97</td>
+<td>19.43</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
@@ -462,7 +462,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
-<td>101.97</td>
+<td>53.97</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
@@ -510,7 +510,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
-<td>101.97</td>
+<td>156.83</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
