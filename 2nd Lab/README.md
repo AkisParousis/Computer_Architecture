@@ -300,6 +300,8 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 
 
 Στη συνέχεια επιλέξαμε 9 build που θεωρήσαμε οτι θα μπορούσαν να αποτελούν βέλτιστα προκειμένου να συγκρίνουμε τα score τους. Τα score βγαίνουν από τη συνάρτηση κόστους πολλαπλασιασμένη με το cpi του build.
+Τα cpi έχουν υπολογιστεί από τα simulations που κάναμε και τα αποτελέσματα βρίσκονται στον φάκελο [Results](https://github.com/AkisParousis/Computer_Architecture/tree/main/2nd%20Lab/Results)
+
 
 **specbizip**
 <table>
