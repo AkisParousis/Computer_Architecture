@@ -430,19 +430,19 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
-<td></td>
+<td>23.85</td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
-<td></td>
+<td>15.98</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td></td>
+<td>19.37</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td></td>
+<td>23.87</td>
 </tr>
 </tbody>
 </table>
