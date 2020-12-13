@@ -430,19 +430,19 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L2: 4MB 4-way</td>
-<td>201.76</td>
+<td></td>
 </tr>
 <tr>
 <td>L2: 1MB 8-way</td>
-<td>203.24</td>
+<td></td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>104.75</td>
+<td></td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>208.25</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -478,19 +478,19 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L2: 4MB 4-way</td>
-<td>201.76</td>
+<td></td>
 </tr>
 <tr>
 <td>L2: 1MB 8-way</td>
-<td>203.24</td>
+<td></td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>104.75</td>
+<td>38.77</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>208.25</td>
+<td>37.39</td>
 </tr>
 </tbody>
 </table>
@@ -526,19 +526,19 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 </tr>
 <tr>
 <td>L2: 4MB 4-way</td>
-<td>201.76</td>
+<td></td>
 </tr>
 <tr>
 <td>L2: 1MB 8-way</td>
-<td>203.24</td>
+<td></td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>104.75</td>
+<td>104.14</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>208.25</td>
+<td>93.55</td>
 </tr>
 </tbody>
 </table>
