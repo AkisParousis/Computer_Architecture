@@ -307,7 +307,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 <table>
 <thead>
 <tr>
-<th>401.bzip2</th>
+<th>specbzip</th>
 <th>Score</th>
 </tr>
 </thead>
@@ -355,14 +355,14 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 <table>
 <thead>
 <tr>
-<th>401.bzip2</th>
+<th>spechmmer</th>
 <th>Score</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Default</td>
-<td>159.68</td>
+<td>16.26</td>
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
@@ -403,14 +403,14 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 <table>
 <thead>
 <tr>
-<th>401.bzip2</th>
+<th>specmcf</th>
 <th>Score</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Default</td>
-<td>159.68</td>
+<td>17.17</td>
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
@@ -451,14 +451,14 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 <table>
 <thead>
 <tr>
-<th>401.bzip2</th>
+<th>speclibm</th>
 <th>Score</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Default</td>
-<td>159.68</td>
+<td>47.64</td>
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
@@ -499,14 +499,14 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 <table>
 <thead>
 <tr>
-<th>401.bzip2</th>
+<th>specsjeng</th>
 <th>Score</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Default</td>
-<td>159.68</td>
+<td>138.44</td>
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
