@@ -303,7 +303,7 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 Τα cpi έχουν υπολογιστεί από τα simulations που κάναμε και τα αποτελέσματα βρίσκονται στον φάκελο [Results](https://github.com/AkisParousis/Computer_Architecture/tree/main/2nd%20Lab/Results)
 
 
-**specbizip**
+**specbzip**
 <table>
 <thead>
 <tr>
@@ -314,39 +314,39 @@ system.l2.overall_miss_rate::total           0.999978                       # mi
 <tbody>
 <tr>
 <td>Default</td>
-<td>159.68</td>
+<td>22.87</td>
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
-<td>101.97</td>
+<td>25.45</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
-<td>102.18</td>
+<td>24.33</td>
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td>118.52</td>
+<td>24.38</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
-<td>150.42</td>
+<td>24.46</td>
 </tr>
 <tr>
-<td>L2: 4MB 4-way</td>
-<td>201.76</td>
+<td>L2: 4MB 8-way</td>
+<td>31.28</td>
 </tr>
 <tr>
-<td>L2: 1MB 8-way</td>
-<td>203.24</td>
+<td>L2: 2MB 4-way</td>
+<td>21.27</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>104.75</td>
+<td>25.66</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>208.25</td>
+<td>31.51</td>
 </tr>
 </tbody>
 </table>
