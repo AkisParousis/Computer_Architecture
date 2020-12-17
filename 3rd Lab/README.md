@@ -79,3 +79,5 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 
 #### Sources
 [Static and Dynamic Power](https://www.vlsiguide.com/2020/04/static-and-dynamic-power-dissipation_20.html)
+[McPAT Documentation](https://github.com/HewlettPackard/mcpat)
+[Computer Architecture A Quantitative Approach]
