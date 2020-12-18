@@ -86,9 +86,11 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 Από αυτά τα χαρακτηριστικά προέκυψαν τα αρχεία [EnergyAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/energyAll.txt) και [AreaAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/areaAll.txt)
 
 
+
+
 ###### 2ο Ερώτημα
 
-Παρακάτω παρουσιάζουμε τα γραφήματα με την επίδραση των μεταβολών των χαρακτηριστικών που μελετήσαμε στην εργαστηριακή άσκηση 2:
+Παρακάτω παρουσιάζουμε τα γραφήματα με την επίδραση των μεταβολών των χαρακτηριστικών που μελετήσαμε στην εργαστηριακή άσκηση 2 στο peak power :
 
 *cache_line_size*
 
