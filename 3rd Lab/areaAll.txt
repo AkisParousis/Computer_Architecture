@@ -1,0 +1,382 @@
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/specbzip/stats.txt
+core area: 13.2392 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/specbzip/stats.txt
+core area: 51.1994 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/specbzip/stats.txt
+core area: 92.1132 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/specbzip/stats.txt
+core area: 18.3463 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/specbzip/stats.txt
+core area: 20.7599 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/specbzip/stats.txt
+core area: 16.7179 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/specbzip/stats.txt
+core area: 16.7179 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/specbzip/stats.txt
+core area: 17.564 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/specbzip/stats.txt
+core area: 13.3235 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.3/specbzip/stats.txt
+core area: 18.6094 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/specbzip/stats.txt
+core area: 15.9147 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/specbzip/stats.txt
+core area: 14.818 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/specbzip/stats.txt
+core area: 15.1186 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/specbzip/stats.txt
+core area: 11.0763 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/specbzip/stats.txt
+core area: 13.1165 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/specbzip/stats.txt
+core area: 22.2732 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/specbzip/stats.txt
+core area: 16.4281 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/specbzip/stats.txt
+core area: 16.6416 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/specbzip/stats.txt
+core area: 16.6366 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/specbzip/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/spechmmer/stats.txt
+core area: 13.2392 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/spechmmer/stats.txt
+core area: 51.1994 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/spechmmer/stats.txt
+core area: 92.1132 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/spechmmer/stats.txt
+core area: 18.3463 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/spechmmer/stats.txt
+core area: 20.7599 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/spechmmer/stats.txt
+core area: 15.9213 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/spechmmer/stats.txt
+core area: 16.7179 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/spechmmer/stats.txt
+core area: 17.564 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/spechmmer/stats.txt
+core area: 13.3235 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/spechmmer/stats.txt
+core area: 15.9147 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/spechmmer/stats.txt
+core area: 14.818 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/spechmmer/stats.txt
+core area: 15.1186 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/spechmmer/stats.txt
+core area: 11.0763 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/spechmmer/stats.txt
+core area: 13.1165 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/spechmmer/stats.txt
+core area: 22.2732 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/spechmmer/stats.txt
+core area: 16.4281 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/spechmmer/stats.txt
+core area: 16.6416 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/spechmmer/stats.txt
+core area: 16.6366 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/spechmmer/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/speclibm/stats.txt
+core area: 13.2392 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/speclibm/stats.txt
+core area: 51.1994 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/speclibm/stats.txt
+core area: 92.1132 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/speclibm/stats.txt
+core area: 18.3463 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/speclibm/stats.txt
+core area: 20.7599 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/speclibm/stats.txt
+core area: 15.9213 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/speclibm/stats.txt
+core area: 16.7179 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/speclibm/stats.txt
+core area: 17.564 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/speclibm/stats.txt
+core area: 13.3235 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/speclibm/stats.txt
+core area: 15.9147 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/speclibm/stats.txt
+core area: 14.818 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/speclibm/stats.txt
+core area: 15.1186 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/speclibm/stats.txt
+core area: 11.0763 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/speclibm/stats.txt
+core area: 13.1165 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/speclibm/stats.txt
+core area: 22.2732 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/speclibm/stats.txt
+core area: 16.4281 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/speclibm/stats.txt
+core area: 16.6416 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/speclibm/stats.txt
+core area: 16.6366 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/speclibm/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/specmcf/stats.txt
+core area: 13.2392 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/specmcf/stats.txt
+core area: 51.1994 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/specmcf/stats.txt
+core area: 92.1132 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/specmcf/stats.txt
+core area: 18.3463 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/specmcf/stats.txt
+core area: 20.7599 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/specmcf/stats.txt
+core area: 15.9213 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/specmcf/stats.txt
+core area: 16.7179 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/specmcf/stats.txt
+core area: 17.564 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/specmcf/stats.txt
+core area: 13.3235 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/specmcf/stats.txt
+core area: 15.9147 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/specmcf/stats.txt
+core area: 14.818 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/specmcf/stats.txt
+core area: 15.1186 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/specmcf/stats.txt
+core area: 11.0763 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/specmcf/stats.txt
+core area: 13.1165 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/specmcf/stats.txt
+core area: 22.2732 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/specmcf/stats.txt
+core area: 16.4281 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/specmcf/stats.txt
+core area: 16.6416 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/specmcf/stats.txt
+core area: 16.6366 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/specmcf/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/specsjeng/stats.txt
+core area: 13.2392 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/specsjeng/stats.txt
+core area: 51.1994 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/specsjeng/stats.txt
+core area: 92.1132 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/specsjeng/stats.txt
+core area: 18.3463 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/specsjeng/stats.txt
+core area: 20.7599 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/specsjeng/stats.txt
+core area: 15.9213 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/specsjeng/stats.txt
+core area: 16.7179 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/specsjeng/stats.txt
+core area: 17.564 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/specsjeng/stats.txt
+core area: 13.3235 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/specsjeng/stats.txt
+core area: 15.9147 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/specsjeng/stats.txt
+core area: 14.818 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/specsjeng/stats.txt
+core area: 15.1186 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/specsjeng/stats.txt
+core area: 11.0763 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/specsjeng/stats.txt
+core area: 13.1165 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/specsjeng/stats.txt
+core area: 22.2732 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/specsjeng/stats.txt
+core area: 16.4281 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/specsjeng/stats.txt
+core area: 16.6416 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/specsjeng/stats.txt
+core area: 16.6366 mm^2
+
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/specsjeng/stats.txt
+core area: 15.9545 mm^2
+
