@@ -126,6 +126,56 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/L2cache_assoc_pp.png?raw=true">
 
+
+<p><strong>specbzip</strong></p>
+<table>
+<thead>
+<tr>
+<th>specbzip</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>1,975.54</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>2,446.32</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>1,485.08</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>2,892.76</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>2,180.94</td>
+</tr>
+<tr>
+<td>L2: 4MB 8-way</td>
+<td>2,741.51</td>
+</tr>
+<tr>
+<td>L2: 2MB 4-way</td>
+<td>2,059.09</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>7,792.98</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>27,999.01</td>
+</tr>
+</tbody>
+</table>
+
+
 #### Sources
 [Static and Dynamic Power](https://www.vlsiguide.com/2020/04/static-and-dynamic-power-dissipation_20.html)  
 [McPAT Documentation](https://github.com/HewlettPackard/mcpat)  
