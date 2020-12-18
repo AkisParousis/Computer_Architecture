@@ -77,6 +77,15 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 
 Η συνολική κατανάλωση ισχύος του *ARM A9* ισούται με 1.74189 W. Υποθέτοντας ότι ο XEON είναι 40 φορές ταχύτερος τότε ο ARM θα καταναλώνει κατά τη διάρκεια εκτέλεσης του προγράμματος 40 * 1.74189 W = 69,9276 W < 134.938 W. Ακόμη κι αν ο XEON μένει idle το υπόλοιπο χρονικό διάστημα ο ARM είναι περισσότερο energy efficient από τον XEON.
 
+
+
+##### Βήμα 2ο
+###### 1ο Ερώτημα
+
+Για κάθε build που είχαμε σχεδιάσει στην [Εργαστηριακή άσκηση 2](https://github.com/AkisParousis/Computer_Architecture/tree/main/2nd%20Lab/Results) πήραμε μέσω του McPAT τα χαρακτηριστικά Area, Subthreshold Leakage, Gate Leakage, Runtime Dynamic και μέσω του stats.txt το sim_seconds επειδή το Delay είναι ο χρόνος εκτέλεσης του προγράμματος.  
+Από αυτά τα χαρακτηριστικά προέκυψαν τα αρχεία [EnergyAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/energyAll.txt) και [AreaAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/areaAll.txt)
+
+
 #### Sources
 [Static and Dynamic Power](https://www.vlsiguide.com/2020/04/static-and-dynamic-power-dissipation_20.html)  
 [McPAT Documentation](https://github.com/HewlettPackard/mcpat)  
