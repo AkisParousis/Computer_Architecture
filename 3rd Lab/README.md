@@ -85,7 +85,7 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 Για κάθε build που είχαμε σχεδιάσει στην [Εργαστηριακή άσκηση 2](https://github.com/AkisParousis/Computer_Architecture/tree/main/2nd%20Lab/Results) πήραμε μέσω του McPAT τα χαρακτηριστικά Area, Subthreshold Leakage, Gate Leakage, Runtime Dynamic και μέσω του stats.txt το sim_seconds επειδή το Delay είναι ο χρόνος εκτέλεσης του προγράμματος.  
 Από αυτά τα χαρακτηριστικά προέκυψαν τα αρχεία [EnergyAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/energyAll.txt) και [AreaAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/areaAll.txt)
 
-Ο υπολογισμός της κατανάλωσης ενέργειας προκύπτει από τον τύπο ( Subthreshold Leakage + Gate Leakage + Runtime Dynamic ) * sim_seconds
+Ο υπολογισμός της κατανάλωσης ενέργειας προκύπτει από τον τύπο ( Subthreshold Leakage + Gate Leakage + Runtime Dynamic ) * sim_seconds και τα αποτελέσματα κάθε build βρίσκονται στο EnergyAll.
 
 
 ###### 2ο Ερώτημα
