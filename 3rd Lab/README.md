@@ -83,8 +83,46 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 ###### 1ο Ερώτημα
 
 Για κάθε build που είχαμε σχεδιάσει στην [Εργαστηριακή άσκηση 2](https://github.com/AkisParousis/Computer_Architecture/tree/main/2nd%20Lab/Results) πήραμε μέσω του McPAT τα χαρακτηριστικά Area, Subthreshold Leakage, Gate Leakage, Runtime Dynamic και μέσω του stats.txt το sim_seconds επειδή το Delay είναι ο χρόνος εκτέλεσης του προγράμματος.  
-Από αυτά τα χαρακτηριστικά προέκυψαν τα αρχεία [EnergyAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/energyAll.txt) και [AreaAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/areaAll.txt)
+Από αυτά τα χαρακτηριστικά προέκυψαν τα αρχεία [EnergyAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/energyAll.txt) και [AreaAll](https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/areaAll.txt)
 
+
+###### 2ο Ερώτημα
+
+Παρακάτω παρουσιάζουμε τα γραφήματα με την επίδραση των μεταβολών των χαρακτηριστικών που μελετήσαμε στην εργαστηριακή άσκηση 2:
+
+*cache_line_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/cache_line_size_pp.png?raw=true">
+
+
+*icache_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/icache_size_pp.png?raw=true">
+
+
+*icache_assoc*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/icache_assoc_pp.png?raw=true">
+
+
+*dcache_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/dcache_size_pp.png?raw=true">
+
+
+*dcache_assoc*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/dcache_assoc_pp.png?raw=true">
+
+
+*l2_size*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/L2cache_size_pp.png?raw=true">
+
+
+*l2_assoc*
+
+<img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/L2cache_assoc_pp.png?raw=true">
 
 #### Sources
 [Static and Dynamic Power](https://www.vlsiguide.com/2020/04/static-and-dynamic-power-dissipation_20.html)  
