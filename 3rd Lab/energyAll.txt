@@ -1,0 +1,642 @@
+
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults10.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults11.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/specbzip/stats.txt
+leakage: 0.845989 W, dynamic: 0.162093 W and runtime: 0.092167 sec
+energy is 92.911894 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults12.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/specbzip/stats.txt
+leakage: 1.253290 W, dynamic: 0.586133 W and runtime: 0.082748 sec
+energy is 152.208574 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults13.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/specbzip/stats.txt
+leakage: 2.487210 W, dynamic: 1.204800 W and runtime: 0.082330 sec
+energy is 303.963183 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults21.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults22.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/specbzip/stats.txt
+leakage: 1.558160 W, dynamic: 0.328630 W and runtime: 0.083568 sec
+energy is 157.675267 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults23.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/specbzip/stats.txt
+leakage: 1.843780 W, dynamic: 0.328661 W and runtime: 0.083560 sec
+energy is 181.529170 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults31.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/specbzip/stats.txt
+leakage: 1.232520 W, dynamic: 0.328647 W and runtime: 0.083563 sec
+energy is 130.455798 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults32.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults33.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/specbzip/stats.txt
+leakage: 1.232520 W, dynamic: 0.328647 W and runtime: 0.083563 sec
+energy is 130.455798 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults34.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/specbzip/stats.txt
+leakage: 1.276720 W, dynamic: 0.328686 W and runtime: 0.083553 sec
+energy is 134.136488 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults41.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/specbzip/stats.txt
+leakage: 0.748383 W, dynamic: 0.122274 W and runtime: 0.085188 sec
+energy is 74.169529 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults42.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults43.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.3/specbzip/stats.txt
+leakage: 1.438890 W, dynamic: 0.162715 W and runtime: 0.082078 sec
+energy is 131.456535 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults51.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/specbzip/stats.txt
+leakage: 1.151030 W, dynamic: 0.326891 W and runtime: 0.084482 sec
+energy is 124.857722 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults52.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults53.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/specbzip/stats.txt
+leakage: 0.878176 W, dynamic: 0.327775 W and runtime: 0.083106 sec
+energy is 100.221764 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults54.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/specbzip/stats.txt
+leakage: 0.898840 W, dynamic: 0.409033 W and runtime: 0.082794 sec
+energy is 108.284037 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults61.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/specbzip/stats.txt
+leakage: 1.149660 W, dynamic: 0.308976 W and runtime: 0.087486 sec
+energy is 127.610229 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults62.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/specbzip/stats.txt
+leakage: 1.151160 W, dynamic: 0.319857 W and runtime: 0.084976 sec
+energy is 125.001141 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults63.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults64.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/specbzip/stats.txt
+leakage: 1.158180 W, dynamic: 0.338379 W and runtime: 0.082246 sec
+energy is 123.085992 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults71.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/specbzip/stats.txt
+leakage: 1.153140 W, dynamic: 0.324610 W and runtime: 0.084557 sec
+energy is 124.954107 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults72.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/specbzip/stats.txt
+leakage: 1.153200 W, dynamic: 0.327418 W and runtime: 0.083838 sec
+energy is 124.132052 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults73.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/specbzip/stats.txt
+leakage: 1.153220 W, dynamic: 0.328760 W and runtime: 0.083516 sec
+energy is 123.769042 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specbzipResults74.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/specbzip/stats.txt
+leakage: 1.153270 W, dynamic: 0.328675 W and runtime: 0.083555 sec
+energy is 123.823914 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults10.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults11.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/spechmmer/stats.txt
+leakage: 0.845989 W, dynamic: 0.212011 W and runtime: 0.059847 sec
+energy is 63.318126 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults12.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/spechmmer/stats.txt
+leakage: 1.253290 W, dynamic: 0.614337 W and runtime: 0.059091 sec
+energy is 110.359947 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults13.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/spechmmer/stats.txt
+leakage: 2.487210 W, dynamic: 1.135180 W and runtime: 0.059108 sec
+energy is 214.112228 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults21.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults22.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/spechmmer/stats.txt
+leakage: 1.558160 W, dynamic: 0.384236 W and runtime: 0.059381 sec
+energy is 115.341417 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults23.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/spechmmer/stats.txt
+leakage: 1.843780 W, dynamic: 0.384240 W and runtime: 0.059379 sec
+energy is 132.297600 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults31.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/spechmmer/stats.txt
+leakage: 1.152940 W, dynamic: 0.363383 W and runtime: 0.065848 sec
+energy is 99.846837 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults32.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults33.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/spechmmer/stats.txt
+leakage: 1.232520 W, dynamic: 0.384231 W and runtime: 0.059387 sec
+energy is 96.013992 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults34.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/spechmmer/stats.txt
+leakage: 1.276720 W, dynamic: 0.384247 W and runtime: 0.059381 sec
+energy is 98.629881 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults41.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/spechmmer/stats.txt
+leakage: 0.748383 W, dynamic: 0.138541 W and runtime: 0.059479 sec
+energy is 52.753353 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults42.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults43.txt
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults51.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/spechmmer/stats.txt
+leakage: 1.151030 W, dynamic: 0.378883 W and runtime: 0.060432 sec
+energy is 92.455702 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults52.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults53.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/spechmmer/stats.txt
+leakage: 0.878176 W, dynamic: 0.379471 W and runtime: 0.059378 sec
+energy is 74.676564 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults54.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/spechmmer/stats.txt
+leakage: 0.898840 W, dynamic: 0.461104 W and runtime: 0.059369 sec
+energy is 80.738515 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults61.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/spechmmer/stats.txt
+leakage: 1.149660 W, dynamic: 0.383236 W and runtime: 0.059395 sec
+energy is 91.046358 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults62.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/spechmmer/stats.txt
+leakage: 1.151160 W, dynamic: 0.383617 W and runtime: 0.059395 sec
+energy is 91.158080 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults63.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults64.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/spechmmer/stats.txt
+leakage: 1.158180 W, dynamic: 0.384890 W and runtime: 0.059395 sec
+energy is 91.650643 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults71.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/spechmmer/stats.txt
+leakage: 1.153140 W, dynamic: 0.384169 W and runtime: 0.059395 sec
+energy is 91.308468 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults72.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/spechmmer/stats.txt
+leakage: 1.153200 W, dynamic: 0.384192 W and runtime: 0.059395 sec
+energy is 91.313398 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults73.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/spechmmer/stats.txt
+leakage: 1.153220 W, dynamic: 0.384194 W and runtime: 0.059395 sec
+energy is 91.314705 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/spechmmerResults74.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/spechmmer/stats.txt
+leakage: 1.153270 W, dynamic: 0.384209 W and runtime: 0.059395 sec
+energy is 91.318565 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults10.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults11.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/speclibm/stats.txt
+leakage: 0.845989 W, dynamic: 0.077448 W and runtime: 0.278377 sec
+energy is 257.063566 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults12.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/speclibm/stats.txt
+leakage: 1.253290 W, dynamic: 0.388039 W and runtime: 0.125020 sec
+energy is 205.198952 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults13.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/speclibm/stats.txt
+leakage: 2.487210 W, dynamic: 0.886902 W and runtime: 0.097690 sec
+energy is 329.617001 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults21.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults22.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/speclibm/stats.txt
+leakage: 1.558160 W, dynamic: 0.179134 W and runtime: 0.174048 sec
+energy is 302.372546 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults23.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/speclibm/stats.txt
+leakage: 1.843780 W, dynamic: 0.179134 W and runtime: 0.174048 sec
+energy is 352.084136 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults31.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/speclibm/stats.txt
+leakage: 1.152940 W, dynamic: 0.179135 W and runtime: 0.174048 sec
+energy is 231.844990 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults32.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults33.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/speclibm/stats.txt
+leakage: 1.232520 W, dynamic: 0.179134 W and runtime: 0.174048 sec
+energy is 245.695555 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults34.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/speclibm/stats.txt
+leakage: 1.276720 W, dynamic: 0.179134 W and runtime: 0.174048 sec
+energy is 253.388477 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults41.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/speclibm/stats.txt
+leakage: 0.748383 W, dynamic: 0.079281 W and runtime: 0.174042 sec
+energy is 144.048333 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults42.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults43.txt
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults51.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/speclibm/stats.txt
+leakage: 1.151030 W, dynamic: 0.178515 W and runtime: 0.174440 sec
+energy is 231.925830 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults52.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults53.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/speclibm/stats.txt
+leakage: 0.878176 W, dynamic: 0.180342 W and runtime: 0.174042 sec
+energy is 184.226590 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults54.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/speclibm/stats.txt
+leakage: 0.898840 W, dynamic: 0.225649 W and runtime: 0.174042 sec
+energy is 195.708315 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults61.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/speclibm/stats.txt
+leakage: 1.149660 W, dynamic: 0.175072 W and runtime: 0.174181 sec
+energy is 230.743144 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults62.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/speclibm/stats.txt
+leakage: 1.151160 W, dynamic: 0.176650 W and runtime: 0.174136 sec
+energy is 231.219522 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults63.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults64.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/speclibm/stats.txt
+leakage: 1.158180 W, dynamic: 0.182039 W and runtime: 0.173863 sec
+energy is 233.014496 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults71.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/speclibm/stats.txt
+leakage: 1.153140 W, dynamic: 0.178833 W and runtime: 0.174042 sec
+energy is 231.819245 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults72.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/speclibm/stats.txt
+leakage: 1.153200 W, dynamic: 0.179007 W and runtime: 0.174042 sec
+energy is 231.859971 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults73.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/speclibm/stats.txt
+leakage: 1.153220 W, dynamic: 0.179028 W and runtime: 0.174042 sec
+energy is 231.867106 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/speclibmResults74.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/speclibm/stats.txt
+leakage: 1.153270 W, dynamic: 0.179139 W and runtime: 0.174042 sec
+energy is 231.895127 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults10.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults11.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/specmcf/stats.txt
+leakage: 0.845989 W, dynamic: 0.198751 W and runtime: 0.062386 sec
+energy is 65.177150 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults12.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/specmcf/stats.txt
+leakage: 1.253290 W, dynamic: 0.598527 W and runtime: 0.062475 sec
+energy is 115.692267 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults13.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/specmcf/stats.txt
+leakage: 2.487210 W, dynamic: 1.168280 W and runtime: 0.062366 sec
+energy is 227.978289 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults21.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults22.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/specmcf/stats.txt
+leakage: 1.558160 W, dynamic: 0.352317 W and runtime: 0.057448 sec
+energy is 109.753083 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults23.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/specmcf/stats.txt
+leakage: 1.843780 W, dynamic: 0.352318 W and runtime: 0.057448 sec
+energy is 126.161438 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults31.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/specmcf/stats.txt
+leakage: 1.152940 W, dynamic: 0.332121 W and runtime: 0.067021 sec
+energy is 99.530273 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults32.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults33.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/specmcf/stats.txt
+leakage: 1.232520 W, dynamic: 0.352319 W and runtime: 0.057448 sec
+energy is 91.045831 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults34.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/specmcf/stats.txt
+leakage: 1.276720 W, dynamic: 0.352305 W and runtime: 0.057451 sec
+energy is 93.589115 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults41.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/specmcf/stats.txt
+leakage: 0.748383 W, dynamic: 0.146952 W and runtime: 0.062857 sec
+energy is 56.278072 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults42.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults43.txt
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults51.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/specmcf/stats.txt
+leakage: 1.151030 W, dynamic: 0.337794 W and runtime: 0.062898 sec
+energy is 93.644052 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults52.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults53.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/specmcf/stats.txt
+leakage: 0.878176 W, dynamic: 0.344796 W and runtime: 0.062695 sec
+energy is 76.674230 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults54.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/specmcf/stats.txt
+leakage: 0.898840 W, dynamic: 0.444762 W and runtime: 0.062677 sec
+energy is 84.212943 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults61.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/specmcf/stats.txt
+leakage: 1.149660 W, dynamic: 0.329179 W and runtime: 0.063167 sec
+energy is 93.413823 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults62.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/specmcf/stats.txt
+leakage: 1.151160 W, dynamic: 0.333285 W and runtime: 0.062950 sec
+energy is 93.445813 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults63.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults64.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/specmcf/stats.txt
+leakage: 1.158180 W, dynamic: 0.344714 W and runtime: 0.062707 sec
+energy is 94.241974 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults71.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/specmcf/stats.txt
+leakage: 1.153140 W, dynamic: 0.338820 W and runtime: 0.062758 sec
+energy is 93.632426 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults72.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/specmcf/stats.txt
+leakage: 1.153200 W, dynamic: 0.339029 W and runtime: 0.062738 sec
+energy is 93.619463 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults73.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/specmcf/stats.txt
+leakage: 1.153220 W, dynamic: 0.339021 W and runtime: 0.062742 sec
+energy is 93.626185 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specmcfResults74.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/specmcf/stats.txt
+leakage: 1.153270 W, dynamic: 0.339132 W and runtime: 0.062732 sec
+energy is 93.621362 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults10.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.0/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults11.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.1/specsjeng/stats.txt
+leakage: 0.845989 W, dynamic: 0.059242 W and runtime: 0.874815 sec
+energy is 791.909920 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults12.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.2/specsjeng/stats.txt
+leakage: 1.253290 W, dynamic: 0.312255 W and runtime: 0.335806 sec
+energy is 525.719404 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults13.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_1.3/specsjeng/stats.txt
+leakage: 2.487210 W, dynamic: 0.790280 W and runtime: 0.244365 sec
+energy is 800.903844 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults21.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.1/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults22.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.2/specsjeng/stats.txt
+leakage: 1.558160 W, dynamic: 0.131338 W and runtime: 0.505686 sec
+energy is 854.355486 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults23.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_2.3/specsjeng/stats.txt
+leakage: 1.843780 W, dynamic: 0.131332 W and runtime: 0.505717 sec
+energy is 998.847715 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults31.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.1/specsjeng/stats.txt
+leakage: 1.152940 W, dynamic: 0.131338 W and runtime: 0.505686 sec
+energy is 649.441405 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults32.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.2/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults33.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.3/specsjeng/stats.txt
+leakage: 1.232520 W, dynamic: 0.131337 W and runtime: 0.505695 sec
+energy is 689.695666 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults34.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_3.4/specsjeng/stats.txt
+leakage: 1.276720 W, dynamic: 0.131331 W and runtime: 0.505722 sec
+energy is 712.082368 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults41.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.1/specsjeng/stats.txt
+leakage: 0.748383 W, dynamic: 0.064759 W and runtime: 0.505714 sec
+energy is 411.217344 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults42.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_4.2/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults43.txt
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults51.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.1/specsjeng/stats.txt
+leakage: 1.151030 W, dynamic: 0.130971 W and runtime: 0.505722 sec
+energy is 648.336110 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults52.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.2/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults53.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.3/specsjeng/stats.txt
+leakage: 0.878176 W, dynamic: 0.140210 W and runtime: 0.505715 sec
+energy is 515.013076 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults54.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_5.4/specsjeng/stats.txt
+leakage: 0.898840 W, dynamic: 0.202063 W and runtime: 0.505707 sec
+energy is 556.734353 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults61.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.1/specsjeng/stats.txt
+leakage: 1.149660 W, dynamic: 0.126507 W and runtime: 0.505805 sec
+energy is 645.491649 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults62.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.2/specsjeng/stats.txt
+leakage: 1.151160 W, dynamic: 0.128393 W and runtime: 0.505756 sec
+energy is 647.141607 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults63.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.3/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults64.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_6.4/specsjeng/stats.txt
+leakage: 1.158180 W, dynamic: 0.134706 W and runtime: 0.505526 sec
+energy is 653.587488 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults71.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.1/specsjeng/stats.txt
+leakage: 1.153140 W, dynamic: 0.130966 W and runtime: 0.505682 sec
+energy is 649.349290 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults72.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.2/specsjeng/stats.txt
+leakage: 1.153200 W, dynamic: 0.131181 W and runtime: 0.505672 sec
+energy is 649.475509 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults73.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.3/specsjeng/stats.txt
+leakage: 1.153220 W, dynamic: 0.131204 W and runtime: 0.505678 sec
+energy is 649.504959 mJ
+
+Reading simulation time from: /home/stavros/my_mcpat/mcpat/allResults/specsjengResults74.txt
+Reading simulation time from: /home/stavros/Desktop/specsFinal/specs/Build_7.4/specsjeng/stats.txt
+leakage: 1.153270 W, dynamic: 0.131334 W and runtime: 0.505707 sec
+energy is 649.633235 mJ
+
+
+
