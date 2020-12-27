@@ -163,10 +163,26 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tr>
 <td>L2: 4MB 8-way</td>
 <td>123.085992 mJ</td>
+<td>L2: 4MB 8-way</td>
+<td>mJ</td>
+<td>L2: 4MB 8-way</td>
+<td>mJ</td>
+<td>L2: 4MB 8-way</td>
+<td>mJ</td>
+<td>L2: 4MB 8-way</td>
+<td>mJ</td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
 <td>123.769042 mJ</td>
+<td>L2: 2MB 4-way</td>
+<td>mJ</td>
+<td>L2: 2MB 4-way</td>
+<td>mJ</td>
+<td>L2: 2MB 4-way</td>
+<td>mJ</td>
+<td>L2: 2MB 4-way</td>
+<td>mJ</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
