@@ -135,10 +135,26 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tr>
 <td>L1D: 4-way</td>
 <td>108.284037 mJ</td>
+<td>L1D: 4-way</td>
+<td>mJ</td>
+<td>L1D: 4-way</td>
+<td>mJ</td>
+<td>L1D: 4-way</td>
+<td>mJ</td>  
+<td>L1D: 4-way</td>
+<td>mJ</td>
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td>157.675267 mJ</td>
+<td>157.675267 mJ</td>  
+<td>L1I: 64kB 2-way</td>
+<td>mJ</td>
+<td>L1I: 64kB 2-way</td>
+<td>mJ</td>
+<td>L1I: 64kB 2-way</td>
+<td>mJ</td>
+<td>L1I: 64kB 2-way</td>
+<td>mJ</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
