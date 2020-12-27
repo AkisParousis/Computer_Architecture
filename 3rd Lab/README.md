@@ -122,8 +122,7 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
-<td>131.456535 mJ</td>
-<td></td>  
+<td>131.456535 mJ</td>  
 <td>L1D: 128kB 2-way</td>
 <td></td>
 <td>L1D: 128kB 2-way</td>
