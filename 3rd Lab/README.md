@@ -91,11 +91,19 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 
 Παρακάτω δίνονται ορισμένα αποτελέσματα για συγκεκριμένα build
 
-<p><strong>specbzip</strong></p>
+
 <table>
 <thead>
 <tr>
 <th>specbzip</th>
+<th>Score</th>
+<th>spechmmer</th>
+<th>Score</th>
+<th>specmcf</th>
+<th>Score</th>
+<th>speclibm</th>
+<th>Score</th>
+<th>specsjeng</th>
 <th>Score</th>
 </tr>
 </thead>
