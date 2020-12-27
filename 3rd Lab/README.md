@@ -111,10 +111,27 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tr>
 <td>Default</td>
 <td>123.823914 mJ</td>
+<td>Default</td>
+<td></td>
+<td>Default</td>
+<td></td>
+<td>Default</td>
+<td></td>
+<td>Default</td>
+<td></td>
 </tr>
 <tr>
 <td>L1D: 128kB 2-way</td>
 <td>131.456535 mJ</td>
+<td></td>  
+<td>L1D: 128kB 2-way</td>
+<td></td>
+<td>L1D: 128kB 2-way</td>
+<td></td>
+<td>L1D: 128kB 2-way</td>
+<td></td>
+<td>L1D: 128kB 2-way</td>
+<td></td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
