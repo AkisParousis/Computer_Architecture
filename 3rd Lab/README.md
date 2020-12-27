@@ -159,6 +159,14 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tr>
 <td>Cache Line Size: 256B</td>
 <td>303.963183 mJ</td>
+<td>Cache Line Size: 256B</td>
+<td>214.112228 mJ</td>
+<td>Cache Line Size: 256B</td>
+<td>227.978289 mJ</td>
+<td>Cache Line Size: 256B</td>
+<td>329.617001 mJ</td>
+<td>Cache Line Size: 256B</td>
+<td>800.903844 mJ</td>
 </tr>
 </tbody>
 </table>
