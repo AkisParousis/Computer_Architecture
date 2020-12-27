@@ -89,6 +89,56 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 
 Ο υπολογισμός της κατανάλωσης ενέργειας προκύπτει από τον τύπο ( Subthreshold Leakage + Gate Leakage + Runtime Dynamic ) * sim_seconds και τα αποτελέσματα κάθε build βρίσκονται στο EnergyAll.
 
+Παρακάτω δίνονται ορισμένα αποτελέσματα για συγκεκριμένα build
+
+<p><strong>specbzip</strong></p>
+<table>
+<thead>
+<tr>
+<th>specbzip</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>123.823914 mJ</td>
+</tr>
+<tr>
+<td>L1D: 128kB 2-way</td>
+<td>131.456535 mJ</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>108.284037 mJ</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>157.675267 mJ</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>134.136488 mJ</td>
+</tr>
+<tr>
+<td>L2: 4MB 8-way</td>
+<td>123.085992 mJ</td>
+</tr>
+<tr>
+<td>L2: 2MB 4-way</td>
+<td>123.769042 mJ</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>152.208574 mJ</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>303.963183 mJ</td>
+</tr>
+</tbody>
+</table>
+
 
 ###### 2ο Ερώτημα
 
