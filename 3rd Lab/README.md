@@ -246,6 +246,20 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 
 <img src="https://github.com/AkisParousis/Computer_Architecture/blob/main/3rd%20Lab/Results/L2cache_assoc_pp.png?raw=true">
 
+Με βάση τα νέα δεδομένα καταλήξαμε στην παρακάτω συνάρτηση κόστους:
+
+(1/1.1)*(x1/32kB) + (1/1.5)*(x2/256kB) + (1/1.05)*(assoc_1 / 2) + (1/1.05) * (assoc_2 / 4) + (c/16B) * (1/2.2) + E/10
+
+* x1 : άθροισμα μεγεθών icache + dcache
+* x2 : μέγεθος l2cache
+* assoc_1 : αθροισμα icache_assoc + dcache_assoc
+* assoc_2 : l2cache_assoc
+* c : cache_line_size
+* E : κατανάλωση ενέργειας
+
+~~~
+Οι συντελεστές και οι διαιρέτες επιλέχθηκαν με τέτοιο τρόπο ωστέ να κανονικοποιηθούν τα μεγέθη και να να μπορούν να συγκριθούν ως προς την επίδραση τους στο κόστος.
+~~~
 
 <p><strong>specbzip</strong></p>
 <table>
@@ -258,39 +272,211 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tbody>
 <tr>
 <td>Default</td>
-<td>1,975.54</td>
-</tr>
-<tr>
-<td>L1D: 128kB 2-way</td>
-<td>2,446.32</td>
+<td>35,17</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
-<td>1,485.08</td>
+<td>34,35</td>
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td>2,892.76</td>
+<td>40,14</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
-<td>2,180.94</td>
+<td>37,87</td>
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
-<td>2,741.51</td>
+<td>43,66</td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
-<td>2,059.09</td>
+<td>33,64</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>7,792.98</td>
+<td>40,88</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>27,999.01</td>
+<td>61,9</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>spechmmer</strong></p>
+<table>
+<thead>
+<tr>
+<th>spechmmer</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>35,17</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>34,35</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>40,14</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>37,87</td>
+</tr>
+<tr>
+<td>L2: 4MB 8-way</td>
+<td>43,66</td>
+</tr>
+<tr>
+<td>L2: 2MB 4-way</td>
+<td>33,64</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>40,88</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>61,9</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>specmcf</strong></p>
+<table>
+<thead>
+<tr>
+<th>specmcf</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>35,17</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>34,35</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>40,14</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>37,87</td>
+</tr>
+<tr>
+<td>L2: 4MB 8-way</td>
+<td>43,66</td>
+</tr>
+<tr>
+<td>L2: 2MB 4-way</td>
+<td>33,64</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>40,88</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>61,9</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>speclibm</strong></p>
+<table>
+<thead>
+<tr>
+<th>speclibm</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>35,17</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>34,35</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>40,14</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>37,87</td>
+</tr>
+<tr>
+<td>L2: 4MB 8-way</td>
+<td>43,66</td>
+</tr>
+<tr>
+<td>L2: 2MB 4-way</td>
+<td>33,64</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>40,88</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>61,9</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>specsjeng</strong></p>
+<table>
+<thead>
+<tr>
+<th>specsjeng</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default</td>
+<td>35,17</td>
+</tr>
+<tr>
+<td>L1D: 4-way</td>
+<td>34,35</td>
+</tr>
+<tr>
+<td>L1I: 64kB 2-way</td>
+<td>40,14</td>
+</tr>
+<tr>
+<td>L1I: 4-way</td>
+<td>37,87</td>
+</tr>
+<tr>
+<td>L2: 4MB 8-way</td>
+<td>43,66</td>
+</tr>
+<tr>
+<td>L2: 2MB 4-way</td>
+<td>33,64</td>
+</tr>
+<tr>
+<td>Cache Line Size: 128B</td>
+<td>40,88</td>
+</tr>
+<tr>
+<td>Cache Line Size: 256B</td>
+<td>61,9</td>
 </tr>
 </tbody>
 </table>
