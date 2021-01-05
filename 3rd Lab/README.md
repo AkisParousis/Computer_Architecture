@@ -121,18 +121,6 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <td>649.633235 mJ</td>
 </tr>
 <tr>
-<td>L1D: 128kB 2-way</td>
-<td>131.456535 mJ</td>  
-<td>L1D: 128kB 2-way</td>
-<td></td>
-<td>L1D: 128kB 2-way</td>
-<td></td>
-<td>L1D: 128kB 2-way</td>
-<td></td>
-<td>L1D: 128kB 2-way</td>
-<td></td>
-</tr>
-<tr>
 <td>L1D: 4-way</td>
 <td>100.221764 mJ</td>
 <td>L1D: 4-way</td>
@@ -148,25 +136,25 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <td>L1I: 64kB 2-way</td>
 <td>157.675267 mJ</td>  
 <td>L1I: 64kB 2-way</td>
-<td>mJ</td>
+<td>115.341417 mJ</td>
 <td>L1I: 64kB 2-way</td>
-<td>mJ</td>
+<td>109.753083 mJ</td>
 <td>L1I: 64kB 2-way</td>
-<td>mJ</td>
+<td>302.372546 mJ</td>
 <td>L1I: 64kB 2-way</td>
-<td>mJ</td>
+<td>854.355486 mJ</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
 <td>134.136488 mJ</td>
 <td>L1I: 4-way</td>
-<td>mJ</td>
+<td>96.013992 mJ</td>
 <td>L1I: 4-way</td>
-<td>mJ</td>
+<td>91.045831 mJ</td>
 <td>L1I: 4-way</td>
-<td>mJ</td>
+<td>245.695555 mJ</td>
 <td>L1I: 4-way</td>
-<td>mJ</td>
+<td>689.695666 mJ</td>
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
