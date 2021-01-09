@@ -272,35 +272,35 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tbody>
 <tr>
 <td>Default</td>
-<td>35,17</td>
+<td>35.17</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
-<td>34,35</td>
+<td>34.35</td>
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td>40,14</td>
+<td>40.14</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
-<td>37,87</td>
+<td>37.87</td>
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
-<td>43,66</td>
+<td>43.66</td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
-<td>33,64</td>
+<td>33.64</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>40,88</td>
+<td>40.88</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>61,9</td>
+<td>61.9</td>
 </tr>
 </tbody>
 </table>
@@ -316,35 +316,35 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tbody>
 <tr>
 <td>Default</td>
-<td>35,17</td>
+<td>25.57</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
-<td>34,35</td>
+<td>25.85</td>
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td>40,14</td>
+<td>28.85</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
-<td>37,87</td>
+<td>26.98</td>
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
-<td>43,66</td>
+<td>24.25</td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
-<td>33,64</td>
+<td>22.22</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>40,88</td>
+<td>29.35</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>61,9</td>
+<td>44.03</td>
 </tr>
 </tbody>
 </table>
@@ -360,35 +360,35 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <tbody>
 <tr>
 <td>Default</td>
-<td>35,17</td>
+<td>26.53</td>
 </tr>
 <tr>
 <td>L1D: 4-way</td>
-<td>34,35</td>
+<td>27.09</td>
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td>40,14</td>
+<td></td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
-<td>37,87</td>
+<td></td>
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
-<td>43,66</td>
+<td></td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
-<td>33,64</td>
+<td></td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td>40,88</td>
+<td></td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td>61,9</td>
+<td></td>
 </tr>
 </tbody>
 </table>
