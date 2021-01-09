@@ -162,9 +162,9 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 <td>L2: 4MB 8-way</td>
 <td>91.318565 mJ</td>
 <td>L2: 4MB 8-way</td>
-<td>231.895127 mJ</td>
-<td>L2: 4MB 8-way</td>
 <td>93.621362 mJ</td>
+<td>L2: 4MB 8-way</td>
+<td>231.895127 mJ</td>
 <td>L2: 4MB 8-way</td>
 <td>649.633235 mJ</td>
 </tr>
@@ -368,27 +368,27 @@ idle_working_time *  idle_power_consumption + work_power_consumption * work_time
 </tr>
 <tr>
 <td>L1I: 64kB 2-way</td>
-<td></td>
+<td>27.72</td>
 </tr>
 <tr>
 <td>L1I: 4-way</td>
-<td></td>
+<td>25.92</td>
 </tr>
 <tr>
 <td>L2: 4MB 8-way</td>
-<td></td>
+<td>33.21</td>
 </tr>
 <tr>
 <td>L2: 2MB 4-way</td>
-<td></td>
+<td>25.34</td>
 </tr>
 <tr>
 <td>Cache Line Size: 128B</td>
-<td></td>
+<td>30.93</td>
 </tr>
 <tr>
 <td>Cache Line Size: 256B</td>
-<td></td>
+<td>46.66</td>
 </tr>
 </tbody>
 </table>
